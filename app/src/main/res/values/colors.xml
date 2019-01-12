@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary2">#3F51B5</color>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#35B6FC</color>
+    <color name="colorAccent">#35B6FC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#00A6FF</color>
+    <color name="lightblue1">#81d4fa</color>
+
+
+    <color name="grey">#FFCDCDCD</color>
+    <color name="light_grey">#FFE9E9E9</color>
+    <color name="majenta">#B388FF</color>
+    <color name="skyblue">#4DBAF5</color>
+
+
+
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white1">#FFFFFF</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="lightest_light_grey">#FFFAFAFA</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+
+    <color name="indigo">#3F51B5</color>
+    <color name="teal">#009688</color>
+    <color name="darkDeepOrange">#E64A19</color>
+    <color name="darkGreen">#388E3C</color>
+    <color name="darkBlueGrey">#455A64</color>
+
+    <color name="bgBottomNavigation">#fe485a</color>
+
+</resources>
